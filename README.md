@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 Hello, my name is Martin Litre. I am software engineer currently living near Paris, France. 
 I am an IoT enthusiast with a particular interest in communication protocols.
-I currently work at [Trialog](https://www.trialog.com/en/home/) where I am the lead developer and maintainer of a C++ software library for [OCPP](https://openchargealliance.org/protocols/open-charge-point-protocol/), as well as a developer of EV charging station software and ISO 15118 C++ library.
+I currently work at [Pionix GmbH](https://www.pionix.com/) where I develop open source EV charging station software [EVerest](https://github.com/EVerest).
 
 I am currently learning rust and interested in Zig and Go.
 I am generally curious and like experimenting / exploring new technologies.
