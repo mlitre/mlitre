@@ -1,22 +1,9 @@
-# Hi there 👋
+### Hi, I'm Martin
 
-<!--
-**mlitre/mlitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems engineer working in C++ and Rust, mostly on communication protocols and the software that runs them on real devices.
 
-Here are some ideas to get you started:
+I specialize in **OCPP** and **ISO 15118**, and in how both fit together with the rest of the charging station. At [Pionix](https://www.pionix.com/) I work on [EVerest](https://github.com/EVerest), the open-source EV charging stack, where I led [OCPP 2.1 support in libocpp](https://github.com/EVerest/libocpp/pull/1110).
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 💬 Ask me about c++, e-mobility communication protocols and other IoT related subjects
-- 🌱 I’m currently learning Rust
--->
-Hello, my name is Martin Litre. I am software engineer currently living near Paris, France. 
-I am an IoT enthusiast with a particular interest in communication protocols.
-I currently work at [Pionix GmbH](https://www.pionix.com/) where I develop open source EV charging station software [EVerest](https://github.com/EVerest).
+[200+ merged PRs and 250+ reviews across EVerest →](https://github.com/pulls?q=is%3Apr+author%3Amlitre+org%3AEVerest+is%3Amerged)
 
-I am currently learning rust and interested in Zig and Go.
-I am generally curious and like experimenting / exploring new technologies.
-I am also looking at starting a blog to write about my learnings.
+Based near Paris · [LinkedIn](https://www.linkedin.com/in/mlitre/)
